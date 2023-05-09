@@ -23,5 +23,5 @@ Delete             |  Refresh
 ![Delete](delete.png)  |  ![Refresh](refresh.png)
 
 
-Details
+Details <br/>
 ![Details](details.png)
