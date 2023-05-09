@@ -8,5 +8,3 @@ This is my second app built with SwiftUI
 * Visit the news page on the web
 
 
-<video src="newsappShowcase.gif" alt="Showcase" controls="controls" style="max-width: 730px;">
-</video>
