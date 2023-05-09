@@ -7,4 +7,21 @@ This is my second app built with SwiftUI
 * Delete news
 * Visit the news page on the web
 
+## Screenshots
+Loading             |  News
+:-------------------------:|:-------------------------:
+![Loading](loading.png)  |  ![News](news.png)
 
+
+Search             |  Search result
+:-------------------------:|:-------------------------:
+![Search](search.png)  |  ![Search result](searchresult.png)
+
+
+Delete             |  Refresh
+:-------------------------:|:-------------------------:
+![Delete](delete.png)  |  ![Refresh](refresh.png)
+
+
+Details
+![Details](details.png)
