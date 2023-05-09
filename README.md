@@ -25,3 +25,6 @@ Delete             |  Refresh
 
 Details <br/>
 ![Details](details.png)
+
+
+![Showcase](https://drive.google.com/file/d/15p3n92lyKeItVXO5MivuBlgIBYkIUhX0/view?usp=share_link)
