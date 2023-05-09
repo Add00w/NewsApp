@@ -7,6 +7,9 @@ This is my second app built with SwiftUI
 * Delete news
 * Visit the news page on the web
 
+<br/><br/>
+[Watch a video](https://drive.google.com/file/d/15p3n92lyKeItVXO5MivuBlgIBYkIUhX0/view?usp=share_link)
+<br/><br/>
 ## Screenshots
 Loading             |  News
 :-------------------------:|:-------------------------:
@@ -25,6 +28,3 @@ Delete             |  Refresh
 
 Details <br/>
 ![Details](details.png)
-
-
-<iframe src="https://drive.google.com/file/d/15p3n92lyKeItVXO5MivuBlgIBYkIUhX0/view?usp=share_link" ></iframe>
